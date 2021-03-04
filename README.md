@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 * Visual Studio Code
 * Visual Studio
 * IntelliJ
+* Paper
+* Spigot
 
 <nobr><img align="center" alt="Visual Studio Code" width="50px" src="Resource/Visual Studio Code.png"/>
 <img align="center" alt="Visual Studio" width="50px" src="Resource/Visual Studio.png" />
