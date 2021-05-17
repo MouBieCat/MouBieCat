@@ -65,6 +65,4 @@ Here are some ideas to get you started:
 ![ImageGIF](Resource/Images/Image1.jpg)
 
 <br>
-( Don't peek at me ._.
-<br>
 Copyright ©  MouBieCat 💗. 版權所有 All rights reserved
