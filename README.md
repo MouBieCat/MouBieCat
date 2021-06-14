@@ -64,5 +64,3 @@ Here are some ideas to get you started:
 
 ![ImageGIF](Resource/BackImage.jpg)
 
-<br>
-Copyright ©  MouBieCat 💗. 版權所有 All rights reserved
