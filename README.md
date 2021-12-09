@@ -36,12 +36,6 @@ Here are some ideas to get you started:
 * Paper
 * Spigot
 
-<nobr><img align="center" alt="Visual Studio Code" width="50px" src="Resource/Visual Studio Code.png"/>
-<img align="center" alt="Visual Studio" width="50px" src="Resource/Visual Studio.png" />
-<img align="center" alt="IntelliJ" width="50px" src="Resource/IntelliJ.png" />
-<img align="center" alt="Spigot" width="50px" src="Resource/Spigot.png" />
-</nobr>
-
 <br/>
 
 ```json
