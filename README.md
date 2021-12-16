@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 * Visual Studio Code
 * Visual Studio
 * IntelliJ
-* Paper
-* Spigot
 
 <br/>
 
